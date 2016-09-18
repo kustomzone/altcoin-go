@@ -1,5 +1,9 @@
 # altcoin
 
+Forked from github.com/toqueteos/altcoin 
+
+(re-uploaded 'cos github did't allow forking an existing fork under another name)
+
 [![GoDoc](https://godoc.org/github.com/toqueteos/altcoin?status.png)]
 (http://godoc.org/github.com/toqueteos/altcoin)[![codebeat](https://codebeat.co/badges/a7b74900-1bbc-439b-a523-24215742994d)](https://codebeat.co/projects/github-com-toqueteos-altcoin)
 
